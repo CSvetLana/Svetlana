@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-la3136?style=social&logo=gmail)](mailto:chuprasovasvetlana@gmail.com)
 
 ## Тестировщик (ручное + автоматизация)
-[:point_right: резюме](https://drive.google.com/file/d/1KPH30o0iqM_xpWfQOKd69AXJSNef0m71/view?usp=sharingg)
+[:point_right: резюме](https://drive.google.com/file/d/1_4-_9ysbSO8mSQJM_WMrm51RokhP9PjZ/view?usp=sharing)
 ## Ручное тестирование (Web)
 ![DevTools](https://img.shields.io/badge/DevTools-122529?style=flat-square&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-122529?style=flat-square&logo=postman)
